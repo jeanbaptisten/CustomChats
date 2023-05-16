@@ -1,0 +1,4 @@
+name: CustomChats
+version: '${project.version}'
+main: me.aet.customchats.CustomChats
+api-version: 1.18
